@@ -1,0 +1,14 @@
+# Virtual environments
+myenv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code / temporary files
+.vscode/
+tempCodeRunnerFile.py
+
+# Python cache
+__pycache__/
+*.pyc
